@@ -53,5 +53,6 @@ My passion for computers, technology, and cybersecurity has driven me to pursue 
 </div>
 
 ## Projects
+- Conducting a security audit
 - Detection Lab
 - SOC Automation Project
