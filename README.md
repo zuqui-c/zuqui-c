@@ -12,7 +12,7 @@ My passion for computers, technology, and cybersecurity has driven me to pursue 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Security Audit and Risk Assessment       | <a href="https://github.com/zuqui-c/Conducting-a-Security-Audit">Security Audit - Botium Toys</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -53,6 +53,6 @@ My passion for computers, technology, and cybersecurity has driven me to pursue 
 </div>
 
 ## Projects
-- Conducting a Security Audit
+- <a href="https://github.com/zuqui-c/Security-Audit-Botium-Toys"> Security Audit - Botium Toys</a>
 - Detection Lab
 - SOC Automation Project
