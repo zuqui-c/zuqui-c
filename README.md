@@ -13,7 +13,7 @@ My passion for computers, technology, and cybersecurity has driven me to pursue 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Audit and Risk Assessment       | <a href="https://github.com/zuqui-c/Conducting-a-Security-Audit">Security Audit - Botium Toys</a>|
-| Virtualization                           | <a href="https://github.com/zuqui-c/Home-Lab-Setup"> Home Lab Setup – VirtualBox</a>             |
+| Virtualization      | <a href="https://github.com/zuqui-c/Home-Lab-Setup"> Home Lab Setup – VirtualBox</a>|
 
 ## Tools
 - Splunk
